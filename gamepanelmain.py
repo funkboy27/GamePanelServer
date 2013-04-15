@@ -30,8 +30,8 @@ class MyApp(object):
     import sys
     import pybonjour
 
-    name    = 'simpleserver'
-    regtype = '_server._tcp'
+    name    = 'gamepanel'
+    regtype = '_gamepanel._tcp'
     port    = 3333
 ##name    = sys.argv[1]
 ##regtype = sys.argv[2]
