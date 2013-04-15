@@ -1,3 +1,6 @@
+## Game Panel ##
+## Version 0.31 ##
+
 from Tkinter import *
 from twisted.internet import tksupport, reactor
 import SendKeys
